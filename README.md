@@ -1,7 +1,5 @@
 # Docker
 
-Docker repository
-
 ### Docker Portainer
 
-- Script d'installation sur Raspberry Pi 4
+- Script d'installation de portainer sur Raspberry Pi 4
